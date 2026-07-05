@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Liam 👋
 
-<!--
-**WLSQRD/WLSQRD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Operations & Data Analytics professional passionate about using data to solve business problems. My background is in IT operations, where I discovered a passion for building dashboards, forecasting models, and automation that help teams make smarter decisions.  
 
-Here are some ideas to get you started:
+## 🚀 What I'm Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Expanding my SQL skills through hands-on projects and coursework
+- Building Power BI dashboards and data visualization projects
+- Exploring analytics, automation, and AI solutions for operational reporting  
+
+
+## 🛠️ Tools & Technologies
+
+- Power BI
+- Microsoft Excel
+- SQL *(currently learning)*
+- Microsoft Copilot
+- SharePoint
+- Git & GitHub  
+
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/william-lichti/  
+
+
+Thanks for stopping by!
