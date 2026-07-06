@@ -1,6 +1,6 @@
 # Hi, I'm Liam 👋
 
-I'm an Operations & Data Analytics professional passionate about using data to solve business problems. My background is in IT operations, where I discovered a passion for building dashboards, forecasting models, and automation that help teams make smarter decisions.  
+I'm an Operations & Data Insights professional passionate about using data to solve business problems. My background is in IT operations, where I discovered a passion for building dashboards, forecasting models, and automation that help teams make smarter decisions.  
 
 ## 🚀 What I'm Currently Working On
 
